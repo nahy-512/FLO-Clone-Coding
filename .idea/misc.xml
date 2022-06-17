@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/.android/udemy_android_template_bottomnavi-main/app/src/main/res/drawable/splash.xml" value="0.1635" />
+        <entry key="..\:/.android/udemy_android_template_bottomnavi-main/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/.android/udemy_android_template_bottomnavi-main/app/src/main/res/layout/activity_song.xml" value="0.264" />
+        <entry key="..\:/.android/udemy_android_template_bottomnavi-main/app/src/main/res/layout/activity_splash.xml" value="0.25364583333333335" />
+        <entry key="..\:/.android/udemy_android_template_bottomnavi-main/app/src/main/res/layout/fragment_album.xml" value="0.24974358974358973" />
+        <entry key="..\:/.android/udemy_android_template_bottomnavi-main/app/src/main/res/layout/fragment_banner.xml" value="0.25364583333333335" />
+        <entry key="..\:/.android/udemy_android_template_bottomnavi-main/app/src/main/res/layout/fragment_detail.xml" value="0.264" />
+        <entry key="..\:/.android/udemy_android_template_bottomnavi-main/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/.android/udemy_android_template_bottomnavi-main/app/src/main/res/layout/fragment_locker.xml" value="0.25364583333333335" />
+        <entry key="..\:/.android/udemy_android_template_bottomnavi-main/app/src/main/res/layout/fragment_look.xml" value="0.25364583333333335" />
+        <entry key="..\:/.android/udemy_android_template_bottomnavi-main/app/src/main/res/layout/fragment_song.xml" value="0.25364583333333335" />
+        <entry key="..\:/.android/udemy_android_template_bottomnavi-main/app/src/main/res/layout/fragment_video.xml" value="0.25364583333333335" />
+        <entry key="..\:/.android/udemy_android_template_bottomnavi-main/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/.android/udemy_android_template_bottomnavi-main/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.138" />
+        <entry key="..\:/.android/udemy_android_template_bottomnavi-main/myapplication/src/main/res/layout/activity_main.xml" value="0.1125" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/drawable/btm_color_selector.xml" value="0.196" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/drawable/rounded_corner.xml" value="0.196" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/drawable/rounded_corner_gray.xml" value="0.196" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/drawable/shadow_rounded.xml" value="0.196" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/layout/activity_login.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/layout/activity_signup.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/layout/activity_song.xml" value="0.264" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/layout/activity_splash.xml" value="0.11354166666666667" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/layout/fragment_album.xml" value="0.2" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/layout/fragment_banner.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/layout/fragment_detail.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/layout/fragment_locker.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/layout/fragment_locker_savedalbum.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/layout/fragment_look.xml" value="0.2" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/layout/fragment_musicfile.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/layout/fragment_search.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/layout/fragment_song.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/layout/fragment_storage.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/layout/fragment_video.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/layout/item_album.xml" value="0.2" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/layout/item_locker.xml" value="0.1911231884057971" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/layout/item_locker_album.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/layout/item_song.xml" value="0.2" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/layout/item_store.xml" value="0.2" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/layout/itme_locker.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/hedgh/2022-1_Android-A/cocoa/udemy_android_template_bottomnavi-main/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jungwoo/AndroidStudioProjects/FLO/app/src/main/res/drawable-v24/main_btm_color_selector.xml" value="0.13240740740740742" />
+        <entry key="..\:/Users/jungwoo/AndroidStudioProjects/FLO/app/src/main/res/drawable/main_btm_color_selector.xml" value="0.13240740740740742" />
+        <entry key="..\:/Users/jungwoo/AndroidStudioProjects/FLO/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/jungwoo/AndroidStudioProjects/FLO/app/src/main/res/layout/fragment_Look.xml" value="0.1" />
+        <entry key="..\:/Users/jungwoo/AndroidStudioProjects/FLO/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/jungwoo/AndroidStudioProjects/FLO/app/src/main/res/layout/fragment_locker.xml" value="0.1" />
+        <entry key="..\:/Users/jungwoo/AndroidStudioProjects/FLO/app/src/main/res/layout/fragment_look.xml" value="0.1" />
+        <entry key="..\:/Users/jungwoo/AndroidStudioProjects/FLO/app/src/main/res/layout/fragment_search.xml" value="0.1" />
+        <entry key="..\:/Users/jungwoo/AndroidStudioProjects/FLO/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
