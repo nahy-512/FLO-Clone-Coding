@@ -14,9 +14,9 @@ class AlbumRVAdapter(private val albumList: ArrayList<Album>): RecyclerView.Adap
     }
 
     //외부에서 전달받는 함수랑 전달받은 리스너 객체를 어댑터에서 사용할 수 있도록 따로 저장할 변수 선언
-    private lateinit var mItemClickListner: MyItemClickListener
+    private lateinit var mItemClickListener: MyItemClickListener
     fun setMyItemClickListener(itemClickListener: MyItemClickListener) {
-        mItemClickListner = itemClickListener
+        mItemClickListener = itemClickListener
     }
 
     override fun onCreateViewHolder(viewGroup: ViewGroup, viewType: Int): ViewHolder {
@@ -27,7 +27,7 @@ class AlbumRVAdapter(private val albumList: ArrayList<Album>): RecyclerView.Adap
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         holder.bind(albumList[position])
-        holder.itemView.setOnClickListener{ mItemClickListner.onItemClick(albumList[position]) }
+        holder.itemView.setOnClickListener{ mItemClickListener.onItemClick(albumList[position]) }
     }
 
     override fun getItemCount(): Int = albumList.size
