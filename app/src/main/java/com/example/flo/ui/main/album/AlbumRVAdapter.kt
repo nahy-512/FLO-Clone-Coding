@@ -11,13 +11,27 @@ class AlbumRVAdapter(private val albumList: ArrayList<Album>): RecyclerView.Adap
     //클릭 인터페이스 정의, 사용하고자 하는 함수 만들기
    interface MyItemClickListener {
         fun onItemClick(album: Album)
+        fun onRemoveAlbum(position: Int)
     }
 
-    //외부에서 전달받는 함수랑 전달받은 리스너 객체를 어댑터에서 사용할 수 있도록 따로 저장할 변수 선언
-    private lateinit var mItemClickListener: MyItemClickListener
-    fun setMyItemClickListener(itemClickListener: MyItemClickListener) {
+   //외부에서 전달받는 함수랑 전달받은 리스너 객체를 어댑터에서 사용할 수 있도록 따로 저장할 변수 선언
+   private lateinit var mItemClickListener: MyItemClickListener
+   fun setMyItemClickListener(itemClickListener: MyItemClickListener) {
         mItemClickListener = itemClickListener
+   }
+
+    //아이템 추가
+    fun addItem(album: Album) {
+        albumList.add(album)
+        notifyDataSetChanged()
     }
+
+    //아이템 삭제
+    fun removeItem(position: Int) {
+        albumList.removeAt(position)
+        notifyDataSetChanged()
+    }
+
 
     override fun onCreateViewHolder(viewGroup: ViewGroup, viewType: Int): ViewHolder {
         val binding: ItemAlbumBinding = ItemAlbumBinding.inflate(LayoutInflater.from(viewGroup.context), viewGroup, false)
@@ -28,6 +42,7 @@ class AlbumRVAdapter(private val albumList: ArrayList<Album>): RecyclerView.Adap
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         holder.bind(albumList[position])
         holder.itemView.setOnClickListener{ mItemClickListener.onItemClick(albumList[position]) }
+//        holder.binding.itemAlbumTitleTv.setOnClickListener { mItemClickListener.onRemoveAlbum(position) }
     }
 
     override fun getItemCount(): Int = albumList.size
